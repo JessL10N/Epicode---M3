@@ -1,0 +1,52 @@
+h1 {
+    border: 3px solid red
+}
+
+body nav:first-of-type > span {
+    background-color: aqua;
+}
+
+.jumbotron a{ 
+border: 3px solid red;
+}
+
+main .blog-post:first-of-type {
+    border: 3px solid blue;
+}
+
+main .blog-post hr {
+   background-color: red;
+}
+
+body nav:first-of-type > span:nth-of-type(even){
+    background-color: blanchedalmond;
+}
+
+aside div:nth-last-of-type(2) ol>li{
+    background-color: blueviolet;
+}
+
+
+main .blog-post:nth-of-type(2) .blog-post-meta a{
+    background-color: green;
+}
+
+main .blog-post:nth-of-type(3) ul li:nth-last-of-type(2){
+    background-color: cadetblue;
+}
+
+footer+a {
+    background-color: brown;
+}
+
+.blog-pagination a:nth-child(2){
+    border: 3px solid green;
+}
+
+.blog-footer a:nth-child(2){
+    background-color: aquamarine;
+}
+
+aside div:nth-child(3) ol>li:nth-of-type(2){
+    background-color: red;
+}
