@@ -1,0 +1,9 @@
+CARD PRODOTTO
+
+body > flex container
+   img miele
+   div descrizione
+	titolo h2/h3
+	p descrizione prodotto
+	p prezzo
+   bottone
